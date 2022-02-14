@@ -23,6 +23,7 @@ public class ClientClass {
 		//binaryTree.Remove(8);
 		 
 			  System.out.println(nTree); 
+			  System.out.println(nTree); 
 	}
 
 }
